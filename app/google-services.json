@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "576010699316",
+    "firebase_url": "https://park-go.firebaseio.com",
+    "project_id": "park-go",
+    "storage_bucket": "park-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576010699316:android:119226e1ee6f92aa",
+        "android_client_info": {
+          "package_name": "com.fyp.robertwalsh.parkgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576010699316-00pecigen73oafe02dv1i8l4f31br7cv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fyp.robertwalsh.parkgo",
+            "certificate_hash": "3930b556cdbeba7a372d7d8e3daaac879b661151"
+          }
+        },
+        {
+          "client_id": "576010699316-otf4foqqifrj0upji266qu6bbe5dufks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM8YFfWo2tnsZm2I8LH8ojcYiRglUuM_E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576010699316-otf4foqqifrj0upji266qu6bbe5dufks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
